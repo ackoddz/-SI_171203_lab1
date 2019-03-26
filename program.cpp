@@ -13,3 +13,7 @@ void printMyIndex () {
 int main () {
 	//TODO
 }
+
+void printMyName(){
+
+}
