@@ -13,3 +13,11 @@ void printMyIndex () {
 int main () {
 	//TODO
 }
+
+void printMyName(){
+
+}
+
+void printMyIndex(){
+	cout>>"171203"
+}
